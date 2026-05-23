@@ -1,5 +1,10 @@
 # Osmago's Phyrexian Search Engine
- Simple GUI to search among known phyrexian words and text
+ 
+!!This project is now outdated and has been replaced by the [Phyrexian Dictionary v3](https://fxbuson.github.io/PhyrexianDictionary/), which includes a search page. This repo will not be maintained and will only be kept for archive purposes.
+
+---
+
+Simple GUI to search among known phyrexian words and text
 
 I did this little program to make it easier for myself (and now others) to search things among the known words/sources of Phyrexian.
 
